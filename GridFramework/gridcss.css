@@ -1,0 +1,80 @@
+.jul-col-1{
+    width: 8.333%;
+    background: chocolate;
+    float: left;
+
+}
+
+.jul-col-2{
+    width: 16.666%;
+    float: left;
+    background: blue;
+}
+.jul-col-3{
+    width: 25%;
+    float: left;
+    background: burlywood;
+
+}
+
+.jul-col-4{
+    width: 33.33%;
+    float: left;
+    background: purple;
+}
+.jul-col-5{
+    width: 41.66%;
+    float: left;
+    background: aqua;
+}
+.jul-col-6{
+    width: 50%;
+    float: left;
+    background: hotpink;
+}
+
+.jul-col-7{
+    width: 58.33%;
+    float: left;
+    background: chartreuse;
+}
+
+.jul-col-8{
+    width: 66.66%;
+    float: left;
+    background: red;
+}
+
+.jul-col-9{
+    width: 75%;
+    float: left;
+    background: cadetblue;
+}
+
+.jul-col-10{
+    width: 83.33%;
+    float: left;
+    background: darkblue;
+}
+
+.jul-col-11{
+    width: 91.66%;
+    float: left;
+    background: darkgreen;
+}
+
+.jul-col-12{
+    width: 100%;
+    float: left;
+    background: khaki;
+}
+
+#second-div{
+    height: 40px;
+}
+#thrid-div{
+    height: 40px;
+}
+#fourth-div{
+    height: 40px;
+}
